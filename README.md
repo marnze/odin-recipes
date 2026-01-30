@@ -7,5 +7,5 @@ pretty, but I'll be able to practice what I've learned.
 After the project:
 I put into practice what I learned and am proud that I didn't need
 to look up anything except how to put a caption on my images
-(with <figure> and <figcaption>). This wasn't necessary but I felt
+(with &lt;figure&gt; and &lt;figcaption&gt;). This wasn't necessary but I felt
 bad not putting any credit on the photos.
